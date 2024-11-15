@@ -1,0 +1,4 @@
+/tmp/pokemom.csv
+mudar a pasta para enviar pro verde.
+jogar o arquivo csv dentro do array.
+id,generation,name,description,type1,type2,abilities,weight_kg,height_m,capture_rate,is_legendary,capture_date
